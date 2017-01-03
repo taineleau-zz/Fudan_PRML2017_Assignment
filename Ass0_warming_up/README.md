@@ -6,7 +6,7 @@
 > Grading: Pass / Fail (You will obtain full marks if you submit it)
 > 
 > Don't panic! This assignment is released so early mainly becuase we need some warmming up practice & recap. 
-> If it's your first time to set up the environment for `LaTeX` and Python numerically programming it could be really tricky. 
+> If it's your first time to set up the environment for `LaTeX` and Python (numerical programming) it could be really tricky. 
 > Don't wait until the last minute!
 
 Keyword:
@@ -22,7 +22,7 @@ Keyword:
 - Eigen Decomposition & SVD
 
 
-#### Part 1: Python & Numpy [2 %]
+### Part 1: Python & Numpy [2 %]
 
 This part is for those who are not familiar with `Numpy` and numerical programming. 
 
@@ -46,7 +46,7 @@ Specifically, you need to finish the following parts:
 
 > - Matrix calculus: https://en.wikipedia.org/wiki/Matrix_calculus
 
-#### Part 2: Plot & Visualization [2 %]
+### Part 2: Plot & Visualization [2 %]
 
 - matplotlib: http://matplotlib.org/examples/index.html
 
@@ -68,11 +68,11 @@ Several APIs you might find it helpful:
 - imshow
 
 
-#### Part 3: Eigen Decomposition and SVD (Introduction) [2 %]
+### Part 3: Eigen Decomposition and SVD (Introduction) [2 %]
 
-> This part aims at reviewing some basic ideas in linear algebra and probability. 
+> This part aims at reviewing some basic ideas in linear algebra and matrix analysis. 
 
-> May cover some numerical analysis knowledge if necessary.
+> Beside, learning how to use `LaTeX` as a tool to write a scitific report will be helpful in the following assignments.
 
 Please read part I and II in http://www.cc.gatech.edu/~dellaert/pub/svd-note.pdf, and answer the following question **briefly**:
 
@@ -82,6 +82,7 @@ Please read part I and II in http://www.cc.gatech.edu/~dellaert/pub/svd-note.pdf
         - math
         - code implementation
 
+
 ---
 > For reference:
 
@@ -90,7 +91,8 @@ Please read part I and II in http://www.cc.gatech.edu/~dellaert/pub/svd-note.pdf
 ---
 
 The LaTeX template `report.tex` (you can write your report in either English or Chinese) has been provided in the folder `part3`. 
-You must hand in a report written by `LaTeX`. You may compile your `*.tex` locally or online (`https://www.overleaf.com/`) using the command `xelatex`. 
+You must hand in a report written by `LaTeX` (you may use your own template if you're excel at TeX). 
+You may compile your `*.tex` locally or online (`https://www.overleaf.com/`) using the command `xelatex`. 
 
 - For MacOS, it's sufficient to install the [MacTeX](http://www.tug.org/mactex/).
 
@@ -98,7 +100,7 @@ You must hand in a report written by `LaTeX`. You may compile your `*.tex` local
   
 You may find it helpful to set up an environment on [Sublime](https://www.zhihu.com/question/23918126) to compile `*.tex`.
 
-LaTeX [cheatsheet](https://wch.github.io/latexsheet/).
+LaTeX [cheatsheet](https://wch.github.io/latexsheet/) would be helpful and please search on the Internet for a good tutorial for `LaTeX` if you have never met `LaTeX` before.
 
 ---
 
