@@ -4,6 +4,9 @@
 > Due: March 3, 2017, Week 1 Sunday 23: 59
 > 
 > Grading: Pass / Fail (You will obtain full marks if you submit it)
+>
+> Estimated time to finish: 2 hrs
+>
 > 
 > Don't panic! This assignment is released so early mainly becuase we need some warmming up practice & recap. 
 > If it's your first time to set up the environment for `LaTeX` and Python (numerical programming) it could be really tricky. 
@@ -20,6 +23,9 @@ Keyword:
 - LaTeX
 
 - Eigen Decomposition & SVD
+
+
+
 
 
 ### Part 1: Python & Numpy [2 %]
@@ -100,7 +106,8 @@ You may compile your `*.tex` locally or online (`https://www.overleaf.com/`) usi
   
 You may find it helpful to set up an environment on [Sublime](https://www.zhihu.com/question/23918126) to compile `*.tex`.
 
-LaTeX [cheatsheet](https://wch.github.io/latexsheet/) would be helpful and please search on the Internet for a good tutorial for `LaTeX` if you have never met `LaTeX` before.
+LaTeX [cheatsheet](https://wch.github.io/latexsheet/) would be helpful and please search on the Internet for a good tutorial for `LaTeX` if you have never met `LaTeX` before. 
+For example, [CTeX.org](http://bbs.ctex.org/forum.php?mod=forumdisplay&fid=9) is a good community for LaTeX beginners.
 
 ---
 
@@ -110,6 +117,7 @@ LaTeX [cheatsheet](https://wch.github.io/latexsheet/) would be helpful and pleas
 
     	
         /13300000001
+           /README.md
            / part1
                 | *.ipynb
            / part2
@@ -121,3 +129,8 @@ LaTeX [cheatsheet](https://wch.github.io/latexsheet/) would be helpful and pleas
                 | report.pdf
                 | report.tex
 
+- In `README.md`, you should report your workload. 
+Please give an estimate of how much time you spent on this assignment (please specify how many hours you spent on each part). 
+Note that you will not be given a higher or lower grade if you spend a lot of time or very little time. 
+We just want an honest estimate and this would help us better evolve the following assignments. 
+Other feedback are welcomed. Please note that regardless of positive or negative feedback, your grades won’t be affected of course. 
