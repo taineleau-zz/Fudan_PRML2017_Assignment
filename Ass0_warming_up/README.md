@@ -1,7 +1,7 @@
 ## Assignment 0: Warming up (Winter Holiday) [6 %]
 > Release: During Winter Holiday
 > 
-> Due: March 3, 2017, Week 1 Sunday 23: 59
+> Due: March 5, 2017, Week 1 Sunday 23: 59
 > 
 > Grading: Pass / Fail (You will obtain full marks if you submit it)
 >
