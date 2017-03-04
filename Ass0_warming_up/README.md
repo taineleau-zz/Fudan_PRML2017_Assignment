@@ -104,7 +104,7 @@ You may compile your `*.tex` locally or online (`https://www.overleaf.com/`) usi
 
 - For Windows/Linux, please use [TeXLive](https://www.tug.org/texlive/).
   
-You may find it helpful to set up an environment on [Sublime](https://www.zhihu.com/question/23918126) to compile `*.tex`.
+You may find it helpful to set up an environment on [Sublime](https://www.zhihu.com/question/23918126) to compile `*.tex`. For windows users, you may find this IDE [WinEdt](http://www.winedt.com/) very convenient.
 
 LaTeX [cheatsheet](https://wch.github.io/latexsheet/) would be helpful and please search on the Internet for a good tutorial for `LaTeX` if you have never met `LaTeX` before. 
 For example, [CTeX.org](http://bbs.ctex.org/forum.php?mod=forumdisplay&fid=9) is a good community for LaTeX beginners.
