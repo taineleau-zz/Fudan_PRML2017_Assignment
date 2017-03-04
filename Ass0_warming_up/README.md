@@ -1,7 +1,7 @@
 ## Assignment 0: Warming up (Winter Holiday) [6 %]
 > Release: During Winter Holiday
 > 
-> Due: March 5, 2017, Week 1 Sunday 23: 59
+> Due: March 5, 2017, Week 1 Sunday 23: 55
 > 
 > Grading: Pass / Fail (You will obtain full marks if you submit it)
 >
@@ -97,7 +97,7 @@ Please read part I and II in http://www.cc.gatech.edu/~dellaert/pub/svd-note.pdf
 ---
 
 The LaTeX template `report.tex` (you can write your report in either English or Chinese) has been provided in the folder `part3`. 
-You must hand in a report written by `LaTeX` (you may use your own template if you're excel at TeX). 
+You must hand in a report written by `LaTeX` (you may use your own template if you are confident enough on TeX). 
 You may compile your `*.tex` locally or online (`https://www.overleaf.com/`) using the command `xelatex`. 
 
 - For MacOS, it's sufficient to install the [MacTeX](http://www.tug.org/mactex/).

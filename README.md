@@ -10,7 +10,7 @@ Please let us know if you have an idea to improve this course project.
 
 - [Assignment 0](https://github.com/taineleau/Fudan_PRML2017_Assignment/tree/master/Ass0_warming_up): warming up
     - Release: Jan. 4, 2017 
-    - Due: March 5, 2017, Week 1 Sunday 23: 59
+    - Due: March 5, 2017, Week 1 Sunday 23: 55
     - Estimated time to finish: 2 hrs
 
 ## Contact
