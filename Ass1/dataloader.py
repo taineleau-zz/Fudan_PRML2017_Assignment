@@ -1,13 +1,12 @@
 import scipy.io as sio
 import numpy as np
 
-
 def load_data(t="", preprocess=False, verbose=False, bias=False):
     data = sio.loadmat("./spamData.mat")
     feature_size = len(data["Xtrain"][1])
 
     def binarized(d):
-        d = [1 if e > 0 else 0 for e in d]
+        d = [[1 if e > 0 else 0 for e in dd] for dd in d]
         return np.array(d, dtype=int)
 
     def logtransform(d):
@@ -22,8 +21,8 @@ def load_data(t="", preprocess=False, verbose=False, bias=False):
         return np.array(d, dtype=int).flatten()
 
     Xtrain = data['Xtrain']
-    ytrain = data['ytrain']
-    Xtest = flat(data['Xtest'])
+    ytrain = flat(data['ytrain'])
+    Xtest = data['Xtest']
     ytest = flat(data['ytest'])
 
     if verbose:
